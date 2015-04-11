@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/gpg
+!/.gnupg
+!/.gnupg/gpg.conf
